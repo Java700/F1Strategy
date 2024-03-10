@@ -11,6 +11,32 @@
 		171AD1142B9333A700AC2953 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171AD1132B9333A700AC2953 /* ContentView.swift */; };
 		171AD1162B9333AA00AC2953 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 171AD1152B9333AA00AC2953 /* Assets.xcassets */; };
 		171AD1192B9333AA00AC2953 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 171AD1182B9333AA00AC2953 /* Preview Assets.xcassets */; };
+		171AD1202B93374F00AC2953 /* TeamRadio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171AD11F2B93374F00AC2953 /* TeamRadio.swift */; };
+		178A41642B9B031C007811C7 /* RadioCommunicationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178A41632B9B031C007811C7 /* RadioCommunicationView.swift */; };
+		17929E442B9DB31000BC6B8A /* AlbonTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E432B9DB31000BC6B8A /* AlbonTeamRadio.txt */; };
+		17929E462B9DB36D00BC6B8A /* AlonsoTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E452B9DB36D00BC6B8A /* AlonsoTeamRadio.txt */; };
+		17929E482B9DB4F400BC6B8A /* BottasTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E472B9DB4F400BC6B8A /* BottasTeamRadio.txt */; };
+		17929E4A2B9DB68400BC6B8A /* GaslyTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E492B9DB68400BC6B8A /* GaslyTeamRadio.txt */; };
+		17929E4C2B9DB7C900BC6B8A /* HamiltonTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E4B2B9DB7C900BC6B8A /* HamiltonTeamRadio.txt */; };
+		17929E4E2B9DB88E00BC6B8A /* HulkenbergTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E4D2B9DB88E00BC6B8A /* HulkenbergTeamRadio.txt */; };
+		17929E502B9DC3E800BC6B8A /* DataCollectionAndProcessing.py in Resources */ = {isa = PBXBuildFile; fileRef = 17929E4F2B9DC3E800BC6B8A /* DataCollectionAndProcessing.py */; };
+		17929E522B9DD57800BC6B8A /* LawsonTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E512B9DD57800BC6B8A /* LawsonTeamRadio.txt */; };
+		17929E542B9DD59D00BC6B8A /* LeclercTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E532B9DD59D00BC6B8A /* LeclercTeamRadio.txt */; };
+		17929E562B9DD5B200BC6B8A /* MagnussenTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E552B9DD5B200BC6B8A /* MagnussenTeamRadio.txt */; };
+		17929E582B9DD5BD00BC6B8A /* NorrisTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E572B9DD5BD00BC6B8A /* NorrisTeamRadio.txt */; };
+		17929E5A2B9DD5C700BC6B8A /* OconTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E592B9DD5C700BC6B8A /* OconTeamRadio.txt */; };
+		17929E5C2B9DD5DD00BC6B8A /* PerezTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E5B2B9DD5DD00BC6B8A /* PerezTeamRadio.txt */; };
+		17929E5E2B9DD5F800BC6B8A /* PiastriTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E5D2B9DD5F800BC6B8A /* PiastriTeamRadio.txt */; };
+		17929E602B9DD60C00BC6B8A /* RusselTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E5F2B9DD60C00BC6B8A /* RusselTeamRadio.txt */; };
+		17929E622B9DD61D00BC6B8A /* SainzTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E612B9DD61D00BC6B8A /* SainzTeamRadio.txt */; };
+		17929E642B9DD62E00BC6B8A /* SargentTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E632B9DD62E00BC6B8A /* SargentTeamRadio.txt */; };
+		17929E662B9DD63A00BC6B8A /* StrollTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E652B9DD63A00BC6B8A /* StrollTeamRadio.txt */; };
+		17929E682B9DD64F00BC6B8A /* TsunodaTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E672B9DD64F00BC6B8A /* TsunodaTeamRadio.txt */; };
+		17929E6A2B9DD65C00BC6B8A /* VerstappenTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E692B9DD65C00BC6B8A /* VerstappenTeamRadio.txt */; };
+		17929E6C2B9DD66D00BC6B8A /* ZhouTeamRadio.txt in Resources */ = {isa = PBXBuildFile; fileRef = 17929E6B2B9DD66D00BC6B8A /* ZhouTeamRadio.txt */; };
+		179346762B99DA0E002849EB /* OPENAI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 179346752B99DA0E002849EB /* OPENAI.swift */; };
+		1793CCFF2B96446E00BCD494 /* SwiftWhisper in Frameworks */ = {isa = PBXBuildFile; productRef = 1793CCFE2B96446E00BCD494 /* SwiftWhisper */; };
+		1793CD022B966D8F00BCD494 /* AudioKit in Frameworks */ = {isa = PBXBuildFile; productRef = 1793CD012B966D8F00BCD494 /* AudioKit */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +45,30 @@
 		171AD1132B9333A700AC2953 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		171AD1152B9333AA00AC2953 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		171AD1182B9333AA00AC2953 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		171AD11F2B93374F00AC2953 /* TeamRadio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamRadio.swift; sourceTree = "<group>"; };
+		178A41632B9B031C007811C7 /* RadioCommunicationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioCommunicationView.swift; sourceTree = "<group>"; };
+		17929E432B9DB31000BC6B8A /* AlbonTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = AlbonTeamRadio.txt; sourceTree = "<group>"; };
+		17929E452B9DB36D00BC6B8A /* AlonsoTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = AlonsoTeamRadio.txt; sourceTree = "<group>"; };
+		17929E472B9DB4F400BC6B8A /* BottasTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = BottasTeamRadio.txt; sourceTree = "<group>"; };
+		17929E492B9DB68400BC6B8A /* GaslyTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = GaslyTeamRadio.txt; sourceTree = "<group>"; };
+		17929E4B2B9DB7C900BC6B8A /* HamiltonTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = HamiltonTeamRadio.txt; sourceTree = "<group>"; };
+		17929E4D2B9DB88E00BC6B8A /* HulkenbergTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = HulkenbergTeamRadio.txt; sourceTree = "<group>"; };
+		17929E4F2B9DC3E800BC6B8A /* DataCollectionAndProcessing.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = DataCollectionAndProcessing.py; sourceTree = "<group>"; };
+		17929E512B9DD57800BC6B8A /* LawsonTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LawsonTeamRadio.txt; sourceTree = "<group>"; };
+		17929E532B9DD59D00BC6B8A /* LeclercTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LeclercTeamRadio.txt; sourceTree = "<group>"; };
+		17929E552B9DD5B200BC6B8A /* MagnussenTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = MagnussenTeamRadio.txt; sourceTree = "<group>"; };
+		17929E572B9DD5BD00BC6B8A /* NorrisTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = NorrisTeamRadio.txt; sourceTree = "<group>"; };
+		17929E592B9DD5C700BC6B8A /* OconTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = OconTeamRadio.txt; sourceTree = "<group>"; };
+		17929E5B2B9DD5DD00BC6B8A /* PerezTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = PerezTeamRadio.txt; sourceTree = "<group>"; };
+		17929E5D2B9DD5F800BC6B8A /* PiastriTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = PiastriTeamRadio.txt; sourceTree = "<group>"; };
+		17929E5F2B9DD60C00BC6B8A /* RusselTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = RusselTeamRadio.txt; sourceTree = "<group>"; };
+		17929E612B9DD61D00BC6B8A /* SainzTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = SainzTeamRadio.txt; sourceTree = "<group>"; };
+		17929E632B9DD62E00BC6B8A /* SargentTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = SargentTeamRadio.txt; sourceTree = "<group>"; };
+		17929E652B9DD63A00BC6B8A /* StrollTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = StrollTeamRadio.txt; sourceTree = "<group>"; };
+		17929E672B9DD64F00BC6B8A /* TsunodaTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = TsunodaTeamRadio.txt; sourceTree = "<group>"; };
+		17929E692B9DD65C00BC6B8A /* VerstappenTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = VerstappenTeamRadio.txt; sourceTree = "<group>"; };
+		17929E6B2B9DD66D00BC6B8A /* ZhouTeamRadio.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ZhouTeamRadio.txt; sourceTree = "<group>"; };
+		179346752B99DA0E002849EB /* OPENAI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OPENAI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +76,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1793CD022B966D8F00BCD494 /* AudioKit in Frameworks */,
+				1793CCFF2B96446E00BCD494 /* SwiftWhisper in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,8 +103,13 @@
 		171AD1102B9333A700AC2953 /* InversityF1Strategy */ = {
 			isa = PBXGroup;
 			children = (
+				17929E402B9DB26500BC6B8A /* RadioTextFiles */,
 				171AD1112B9333A700AC2953 /* InversityF1StrategyApp.swift */,
 				171AD1132B9333A700AC2953 /* ContentView.swift */,
+				171AD11F2B93374F00AC2953 /* TeamRadio.swift */,
+				179346752B99DA0E002849EB /* OPENAI.swift */,
+				178A41632B9B031C007811C7 /* RadioCommunicationView.swift */,
+				17929E4F2B9DC3E800BC6B8A /* DataCollectionAndProcessing.py */,
 				171AD1152B9333AA00AC2953 /* Assets.xcassets */,
 				171AD1172B9333AA00AC2953 /* Preview Content */,
 			);
@@ -65,6 +122,33 @@
 				171AD1182B9333AA00AC2953 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		17929E402B9DB26500BC6B8A /* RadioTextFiles */ = {
+			isa = PBXGroup;
+			children = (
+				17929E432B9DB31000BC6B8A /* AlbonTeamRadio.txt */,
+				17929E452B9DB36D00BC6B8A /* AlonsoTeamRadio.txt */,
+				17929E472B9DB4F400BC6B8A /* BottasTeamRadio.txt */,
+				17929E492B9DB68400BC6B8A /* GaslyTeamRadio.txt */,
+				17929E4B2B9DB7C900BC6B8A /* HamiltonTeamRadio.txt */,
+				17929E4D2B9DB88E00BC6B8A /* HulkenbergTeamRadio.txt */,
+				17929E512B9DD57800BC6B8A /* LawsonTeamRadio.txt */,
+				17929E532B9DD59D00BC6B8A /* LeclercTeamRadio.txt */,
+				17929E552B9DD5B200BC6B8A /* MagnussenTeamRadio.txt */,
+				17929E572B9DD5BD00BC6B8A /* NorrisTeamRadio.txt */,
+				17929E592B9DD5C700BC6B8A /* OconTeamRadio.txt */,
+				17929E5B2B9DD5DD00BC6B8A /* PerezTeamRadio.txt */,
+				17929E5D2B9DD5F800BC6B8A /* PiastriTeamRadio.txt */,
+				17929E5F2B9DD60C00BC6B8A /* RusselTeamRadio.txt */,
+				17929E612B9DD61D00BC6B8A /* SainzTeamRadio.txt */,
+				17929E632B9DD62E00BC6B8A /* SargentTeamRadio.txt */,
+				17929E652B9DD63A00BC6B8A /* StrollTeamRadio.txt */,
+				17929E672B9DD64F00BC6B8A /* TsunodaTeamRadio.txt */,
+				17929E692B9DD65C00BC6B8A /* VerstappenTeamRadio.txt */,
+				17929E6B2B9DD66D00BC6B8A /* ZhouTeamRadio.txt */,
+			);
+			path = RadioTextFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +167,10 @@
 			dependencies = (
 			);
 			name = InversityF1Strategy;
+			packageProductDependencies = (
+				1793CCFE2B96446E00BCD494 /* SwiftWhisper */,
+				1793CD012B966D8F00BCD494 /* AudioKit */,
+			);
 			productName = InversityF1Strategy;
 			productReference = 171AD10E2B9333A700AC2953 /* InversityF1Strategy.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +199,10 @@
 				Base,
 			);
 			mainGroup = 171AD1052B9333A700AC2953;
+			packageReferences = (
+				1793CCFD2B96446E00BCD494 /* XCRemoteSwiftPackageReference "SwiftWhisper" */,
+				1793CD002B966D8E00BCD494 /* XCRemoteSwiftPackageReference "AudioKit" */,
+			);
 			productRefGroup = 171AD10F2B9333A700AC2953 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -126,7 +218,28 @@
 			buildActionMask = 2147483647;
 			files = (
 				171AD1192B9333AA00AC2953 /* Preview Assets.xcassets in Resources */,
+				17929E482B9DB4F400BC6B8A /* BottasTeamRadio.txt in Resources */,
+				17929E4E2B9DB88E00BC6B8A /* HulkenbergTeamRadio.txt in Resources */,
+				17929E442B9DB31000BC6B8A /* AlbonTeamRadio.txt in Resources */,
+				17929E5E2B9DD5F800BC6B8A /* PiastriTeamRadio.txt in Resources */,
 				171AD1162B9333AA00AC2953 /* Assets.xcassets in Resources */,
+				17929E5C2B9DD5DD00BC6B8A /* PerezTeamRadio.txt in Resources */,
+				17929E622B9DD61D00BC6B8A /* SainzTeamRadio.txt in Resources */,
+				17929E502B9DC3E800BC6B8A /* DataCollectionAndProcessing.py in Resources */,
+				17929E6A2B9DD65C00BC6B8A /* VerstappenTeamRadio.txt in Resources */,
+				17929E542B9DD59D00BC6B8A /* LeclercTeamRadio.txt in Resources */,
+				17929E642B9DD62E00BC6B8A /* SargentTeamRadio.txt in Resources */,
+				17929E6C2B9DD66D00BC6B8A /* ZhouTeamRadio.txt in Resources */,
+				17929E562B9DD5B200BC6B8A /* MagnussenTeamRadio.txt in Resources */,
+				17929E682B9DD64F00BC6B8A /* TsunodaTeamRadio.txt in Resources */,
+				17929E582B9DD5BD00BC6B8A /* NorrisTeamRadio.txt in Resources */,
+				17929E4A2B9DB68400BC6B8A /* GaslyTeamRadio.txt in Resources */,
+				17929E602B9DD60C00BC6B8A /* RusselTeamRadio.txt in Resources */,
+				17929E662B9DD63A00BC6B8A /* StrollTeamRadio.txt in Resources */,
+				17929E522B9DD57800BC6B8A /* LawsonTeamRadio.txt in Resources */,
+				17929E4C2B9DB7C900BC6B8A /* HamiltonTeamRadio.txt in Resources */,
+				17929E5A2B9DD5C700BC6B8A /* OconTeamRadio.txt in Resources */,
+				17929E462B9DB36D00BC6B8A /* AlonsoTeamRadio.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +250,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				171AD1202B93374F00AC2953 /* TeamRadio.swift in Sources */,
+				178A41642B9B031C007811C7 /* RadioCommunicationView.swift in Sources */,
+				179346762B99DA0E002849EB /* OPENAI.swift in Sources */,
 				171AD1142B9333A700AC2953 /* ContentView.swift in Sources */,
 				171AD1122B9333A700AC2953 /* InversityF1StrategyApp.swift in Sources */,
 			);
@@ -275,6 +391,7 @@
 				DEVELOPMENT_TEAM = VJV6WAWDT9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "We want to use the speech recognition for transcribing radio";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +421,7 @@
 				DEVELOPMENT_TEAM = VJV6WAWDT9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "We want to use the speech recognition for transcribing radio";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -344,6 +462,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		1793CCFD2B96446E00BCD494 /* XCRemoteSwiftPackageReference "SwiftWhisper" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/exPHAT/SwiftWhisper.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.2.0;
+			};
+		};
+		1793CD002B966D8E00BCD494 /* XCRemoteSwiftPackageReference "AudioKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/AudioKit/AudioKit.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.6.3;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		1793CCFE2B96446E00BCD494 /* SwiftWhisper */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 1793CCFD2B96446E00BCD494 /* XCRemoteSwiftPackageReference "SwiftWhisper" */;
+			productName = SwiftWhisper;
+		};
+		1793CD012B966D8F00BCD494 /* AudioKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 1793CD002B966D8E00BCD494 /* XCRemoteSwiftPackageReference "AudioKit" */;
+			productName = AudioKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 171AD1062B9333A700AC2953 /* Project object */;
 }
